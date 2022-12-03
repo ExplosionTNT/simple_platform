@@ -1,0 +1,1 @@
+g++ -c ./src/*.cpp -I ./include -I C:/Users/Familia/Documents/gustavo/projects/cpp/dep/SDL/include

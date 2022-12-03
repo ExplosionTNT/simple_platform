@@ -1,0 +1,4 @@
+*.o
+simple_platform.sublime-workspace
+bin/debug/main.exe
+bin/release/main.exe
